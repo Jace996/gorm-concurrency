@@ -11,7 +11,7 @@ link: https://github.com/go-gorm/gorm
 Install
 
 ```
-go get github.com/goxiaoy/gorm-concurrency
+go get github.com/jace996/gorm-concurrency
 ```
 
 Add `version` to your entity
